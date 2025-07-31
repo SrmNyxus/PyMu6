@@ -2,7 +2,7 @@
 
 <img width="1920" height="1020" alt="Screenshot 2025-07-22 231621" src="https://github.com/user-attachments/assets/b2a75c31-3e2a-434c-892b-f04d0ee4065c" />
 
-PyMu6 is a modern, vibe-coded, and visually refreshed music player desktop app built with Python and Tkinter. It is a complete revamp of an older project that used the now-deprecated `youtube_dl`—now upgraded to use `yt-dlp` for better YouTube streaming support.
+PyMu6 is a modern and visually refreshed music player desktop app built with Python and Tkinter. It is a complete revamp of an older project that used the now-deprecated `youtube_dl`—now upgraded to use `yt-dlp` for better YouTube streaming support.
 
 ## Features
 
